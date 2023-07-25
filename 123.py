@@ -12,3 +12,4 @@
 temC = float(input("輸入溫度 C : "))
 res = temC / 5 * 9 + 32
 print('F : ' , res)
+raise SystemExit
